@@ -1,30 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Menna%20Aliwa&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20IT%20Student%20%40%20Delta%20University&descAlignY=58&descSize=20" width="100%"/>
+
+# Menna Aliwa
+### Frontend Developer · IT Student @ Delta University
+
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-A855F7?style=for-the-badge&labelColor=0D1117)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-menna--portfolio-22D3EE?style=for-the-badge&labelColor=0D1117)](https://menna-portfolio-ruddy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-aliwa-a6943625a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mna80455@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mna80455-debug)
+![Profile Views](https://komarev.com/ghpvc/?username=mna80455-debug&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=Hi+there!+I'm+Menna+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Building+Premium+Web+Experiences+%E2%9C%A8;React+%7C+TypeScript+%7C+UI%2FUX+%F0%9F%8E%A8;Turning+ideas+into+elegant+code+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://menna-portfolio-ruddy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7"/>
-  </a>
-  <a href="https://www.linkedin.com/in/menna-aliwa-a6943625a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mna80455@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mna80455-debug">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mna80455-debug&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS"/>
-</div>
-
-<br/>
 
 ---
 
@@ -36,55 +22,38 @@ const menna = {
   location:   "Egypt 🇪🇬",
   university: "Delta University for Science & Technology",
   faculty:    "Industrial Technology & Energy — IT Department",
-  portfolio:  "https://menna-portfolio-ruddy.vercel.app/",
 
-  currentFocus:  ["React", "TypeScript", "Framer Motion", "UI/UX"],
-  passions:      ["Frontend Engineering", "System Analysis", "Design Systems"],
+  stack:    ["React", "TypeScript", "Vite", "Firebase", "Tailwind"],
+  passions: ["UI/UX", "System Analysis", "Design Systems"],
 
-  buildingNow:   "Premium interactive web experiences ✨",
-  askMeAbout:    ["Web Apps", "UI Design", "Database Modeling", "React"],
+  building: "Smart QR SaaS · Web Platforms · AI-powered tools",
+  contact:  "mna80455@gmail.com",
 
-  funFact: "I turn ☕ coffee into beautiful web experiences 🚀",
-  contact: "mna80455@gmail.com"
+  get funFact() {
+    return "I ship real products. Not just to-do apps. 🚀";
+  }
 };
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vite,nodejs,git,github,figma,mysql&perline=6" />
-</div>
 
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=mna80455-debug&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&count_private=true&include_all_commits=true" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mna80455-debug&layout=compact&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0D1117&title_color=A855F7" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mna80455-debug&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mna80455-debug&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true&area_color=A855F722" width="100%"/>
 </div>
 
 ---
@@ -93,22 +62,53 @@ const menna = {
 
 <div align="center">
 
-[![menna-myportfolio](https://github-readme-stats.vercel.app/api/pin/?username=mna80455-debug&repo=menna-myportfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/mna80455-debug/menna-myportfolio)
-[![qrify](https://github-readme-stats.vercel.app/api/pin/?username=mna80455-debug&repo=qrify&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/mna80455-debug/qrify)
-
-[![days](https://github-readme-stats.vercel.app/api/pin/?username=mna80455-debug&repo=days&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/mna80455-debug/days)
-[![invoice-generator](https://github-readme-stats.vercel.app/api/pin/?username=mna80455-debug&repo=invoice-generator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/mna80455-debug/invoice-generator)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔗 **[QRift](https://github.com/mna80455-debug/qrify)** | Smart bilingual QR SaaS — dynamic codes, analytics, custom design & pricing tiers | React · Firebase · Vite |
+| 🌙 **[أيام / Days](https://github.com/mna80455-debug/days)** | Arabic mindful daily companion PWA with time-based themes & Life in Weeks | PWA · Firebase · Arabic |
+| 🧠 **GradeIQ** | Academic platform with Groq AI, multi-grading systems & bilingual interface | Groq AI · Firebase |
+| 🧾 **[Invoice Generator](https://github.com/mna80455-debug/invoice-generator)** | Professional invoice builder with PDF export and clean minimal UI | React · Vite · PDF |
+| 🏛️ **Wasl · وصل** | Arabic university employment platform — smart job matching & full academic docs | Next.js · Supabase |
+| 🚌 **UniRoute** | Smart university transport system — GPS, seat reservations & digital payments | Next.js · Oracle SQL |
+| 📁 **Portfolio Generator** | Auto-generates developer portfolios from structured input | React · Vite |
+| 📅 **BookFlow** | Arabic SaaS booking platform with AI assistant | Supabase · Gemini AI |
+| 🧩 **[My Portfolio](https://menna-portfolio-ruddy.vercel.app/)** | Personal portfolio — live, deployed on Vercel | React · Tailwind |
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mna80455-debug&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mna80455-debug&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A855F7" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mna80455-debug&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" />
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mna80455-debug&bg_color=0D1117&color=A855F7&line=22D3EE&point=ffffff&area=true&hide_border=true&area_color=A855F7" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mna80455-debug&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+<div align="center">
+
+```
+// currently building things that matter · one commit at a time 🔮
+```
+
+**[🌐 Visit my Portfolio](https://menna-portfolio-ruddy.vercel.app/)**
+
 </div>
