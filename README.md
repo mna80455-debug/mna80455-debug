@@ -1,72 +1,118 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Menna%20Aliwa&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20IT%20Student%20%40%20Delta%20University&descAlignY=58&descSize=20" width="100%"/>
+</div>
 
-# Hi there, I'm Menna Aliwa! 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=IT+Student+%40+Delta+University;Frontend+Developer;UI%2FUX+Enthusiast;System+Analyst" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=Hi+there!+I'm+Menna+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Building+Premium+Web+Experiences+%E2%9C%A8;React+%7C+TypeScript+%7C+UI%2FUX+%F0%9F%8E%A8;Turning+ideas+into+elegant+code+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-aliwa-a6943625a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mna80455@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/mna80455-debug?style=for-the-badge&logo=github&color=8A2BE2)](https://github.com/mna80455-debug)
+<div align="center">
+  <a href="https://www.linkedin.com/in/menna-aliwa-a6943625a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mna80455@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mna80455-debug">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mna80455-debug&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS"/>
+</div>
+
+<br/>
+
+---
+
+## 👩‍💻 About Me
+
+```javascript
+const menna = {
+  name:       "Menna Aliwa",
+  location:   "Egypt 🇪🇬",
+  university: "Delta University for Science & Technology",
+  faculty:    "Industrial Technology & Energy — IT Department",
+
+  currentFocus:  ["React", "TypeScript", "Framer Motion", "UI/UX"],
+  passions:      ["Frontend Engineering", "System Analysis", "Design Systems"],
+
+  buildingNow:   "Premium interactive web experiences ✨",
+  askMeAbout:    ["Web Apps", "UI Design", "Database Modeling", "React"],
+
+  funFact: "I turn ☕ coffee into beautiful web experiences 🚀",
+  contact: "mna80455@gmail.com"
+};
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vite,nodejs,git,github,figma,mysql&perline=6" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mna80455-debug&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=mna80455-debug&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&count_private=true&include_all_commits=true" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mna80455-debug&layout=compact&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0D1117&title_color=A855F7" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mna80455-debug&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mna80455-debug&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true&area_color=A855F7" width="100%"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![menna-myportfolio](https://github-readme-stats.vercel.app/api/pin/?username=mna80455-debug&repo=menna-myportfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/mna80455-debug/menna-myportfolio)
+[![qrify](https://github-readme-stats.vercel.app/api/pin/?username=mna80455-debug&repo=qrify&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/mna80455-debug/qrify)
+
+[![days](https://github-readme-stats.vercel.app/api/pin/?username=mna80455-debug&repo=days&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/mna80455-debug/days)
+[![invoice-generator](https://github-readme-stats.vercel.app/api/pin/?username=mna80455-debug&repo=invoice-generator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/mna80455-debug/invoice-generator)
 
 </div>
 
 ---
 
-### 💻 About Me
-
-I am an **Information Technology Student** at **Delta University for Science & Technology** (Faculty of Industrial Technology & Energy). I specialize in building responsive, modern, and interactive web applications using clean frontend architectures.
-
-- 🎓 Studying **Information Technology** at Delta University.
-- 🚀 Focused on **Frontend Engineering**, **UI/UX Interactions**, and **System Analysis & Database Design**.
-- 🛠️ Currently exploring advanced React patterns, TypeScript, and fluid animations with Framer Motion.
-- 💬 Ask me about web applications, UI design systems, and database modeling!
-- ✉️ Reach me at: **mna80455@gmail.com**
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62B" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🚀 Highlighted Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| ✨ [menna-myportfolio](https://github.com/mna80455-debug/menna-myportfolio) | Premium interactive digital resume — magnetic cursor, HSL animations & Framer Motion timelines | React · TypeScript · Tailwind |
-| 🔮 [qrify](https://github.com/mna80455-debug/qrify) | Smart QR platform to create, manage & analyze QR codes | TypeScript · React |
-| 🌸 [days أيام](https://github.com/mna80455-debug/days) | Arabic mindfulness dashboard with glassmorphic interface | JavaScript |
-| 🎫 [qr-for-you](https://github.com/mna80455-debug/qr-for-you) | Custom canvas-based QR code builder | TypeScript |
-| 📄 [invoice-generator](https://github.com/mna80455-debug/invoice-generator) | AI-powered invoice creator for freelancers | JavaScript |
-| 📊 [GPA-Calculator](https://github.com/mna80455-debug/GPA-Calculator) | University GPA simulator and calculator | JavaScript |
-
----
-
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mna80455-debug&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mna80455-debug&layout=compact&theme=tokyonight&border_radius=10" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mna80455-debug&theme=tokyonight&border_radius=10" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mna80455-debug&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
