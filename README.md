@@ -1,16 +1,16 @@
 <div align="center">
-
-# Menna Aliwa
-### Frontend Developer · IT Student @ Delta University
-
-![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-A855F7?style=for-the-badge&labelColor=0D1117)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-menna--portfolio-22D3EE?style=for-the-badge&labelColor=0D1117)](https://menna-portfolio-ruddy.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-aliwa-a6943625a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mna80455@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mna80455-debug)
-![Profile Views](https://komarev.com/ghpvc/?username=mna80455-debug&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Menna+Aliwa;Frontend+Developer+%F0%9F%9A%80;Building+Real+Products+%E2%9C%A8" />
 </div>
+
+<div align="center">
+  <a href="https://menna-portfolio-ruddy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://www.linkedin.com/in/menna-aliwa-a6943625a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+  <a href="mailto:mna80455@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://github.com/mna80455-debug"><img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mna80455-debug&color=A855F7&style=for-the-badge&label=VIEWS"/>
+</div>
+
+<br/>
 
 ---
 
@@ -64,15 +64,15 @@ const menna = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔗 **[QRift](https://github.com/mna80455-debug/qrify)** | Smart bilingual QR SaaS — dynamic codes, analytics, custom design & pricing tiers | React · Firebase · Vite |
-| 🌙 **[أيام / Days](https://github.com/mna80455-debug/days)** | Arabic mindful daily companion PWA with time-based themes & Life in Weeks | PWA · Firebase · Arabic |
-| 🧠 **GradeIQ** | Academic platform with Groq AI, multi-grading systems & bilingual interface | Groq AI · Firebase |
-| 🧾 **[Invoice Generator](https://github.com/mna80455-debug/invoice-generator)** | Professional invoice builder with PDF export and clean minimal UI | React · Vite · PDF |
-| 🏛️ **Wasl · وصل** | Arabic university employment platform — smart job matching & full academic docs | Next.js · Supabase |
-| 🚌 **UniRoute** | Smart university transport system — GPS, seat reservations & digital payments | Next.js · Oracle SQL |
+| 🔗 **[QRift](https://github.com/mna80455-debug/qrify)** | Smart bilingual QR SaaS — dynamic codes, analytics & custom design | React · Firebase · Vite |
+| 🌙 **[أيام / Days](https://github.com/mna80455-debug/days)** | Arabic mindful daily companion PWA with time-based themes | PWA · Firebase |
+| 🧠 **GradeIQ** | Academic platform with Groq AI & multi-grading systems | Groq AI · Firebase |
+| 🧾 **[Invoice Generator](https://github.com/mna80455-debug/invoice-generator)** | Professional invoice builder with PDF export | React · Vite |
+| 🏛️ **Wasl · وصل** | Arabic university employment platform with smart job matching | Next.js · Supabase |
+| 🚌 **UniRoute** | Smart university transport system with GPS & digital payments | Next.js · Oracle SQL |
 | 📁 **Portfolio Generator** | Auto-generates developer portfolios from structured input | React · Vite |
-| 📅 **BookFlow** | Arabic SaaS booking platform with AI assistant | Supabase · Gemini AI |
-| 🧩 **[My Portfolio](https://menna-portfolio-ruddy.vercel.app/)** | Personal portfolio — live, deployed on Vercel | React · Tailwind |
+| 📅 **BookFlow** | Arabic SaaS booking platform with Gemini AI assistant | Supabase · Gemini AI |
+| 🧩 **[My Portfolio](https://menna-portfolio-ruddy.vercel.app/)** | Personal portfolio — live on Vercel | React · Tailwind |
 
 </div>
 
@@ -81,7 +81,7 @@ const menna = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mna80455-debug&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mna80455-debug&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mna80455-debug&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A855F7" />
 </div>
 
@@ -90,7 +90,7 @@ const menna = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mna80455-debug&bg_color=0D1117&color=A855F7&line=22D3EE&point=ffffff&area=true&hide_border=true&area_color=A855F7" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mna80455-debug&bg_color=0D1117&color=A855F7&line=22D3EE&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -98,7 +98,7 @@ const menna = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mna80455-debug&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mna80455-debug&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 ---
@@ -109,6 +109,6 @@ const menna = {
 // currently building things that matter · one commit at a time 🔮
 ```
 
-**[🌐 Visit my Portfolio](https://menna-portfolio-ruddy.vercel.app/)**
+**[🌐 Visit my Portfolio →](https://menna-portfolio-ruddy.vercel.app/)**
 
 </div>
