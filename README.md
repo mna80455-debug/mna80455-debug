@@ -68,14 +68,6 @@ const menna = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mna80455-debug&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
