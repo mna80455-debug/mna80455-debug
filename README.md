@@ -71,7 +71,7 @@ const menna = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mna80455-debug&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mna80455-debug&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---
@@ -84,7 +84,7 @@ const menna = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mna80455-debug&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=A8555F7&fire=A855F7&currStreakLabel=A855F7" />
+  <img src="https://streak-stats.demolab.com?user=mna80455-debug&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 </div>
 
 ---
@@ -120,4 +120,3 @@ const menna = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
-
