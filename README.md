@@ -9,6 +9,9 @@
 <br/>
 
 <div align="center">
+  <a href="https://menna-portfolio-ruddy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7"/>
+  </a>
   <a href="https://www.linkedin.com/in/menna-aliwa-a6943625a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -33,6 +36,7 @@ const menna = {
   location:   "Egypt 🇪🇬",
   university: "Delta University for Science & Technology",
   faculty:    "Industrial Technology & Energy — IT Department",
+  portfolio:  "https://menna-portfolio-ruddy.vercel.app/",
 
   currentFocus:  ["React", "TypeScript", "Framer Motion", "UI/UX"],
   passions:      ["Frontend Engineering", "System Analysis", "Design Systems"],
@@ -80,7 +84,7 @@ const menna = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mna80455-debug&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+  <img src="https://streak-stats.demolab.com?user=mna80455-debug&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=A8555F7&fire=A855F7&currStreakLabel=A855F7" />
 </div>
 
 ---
@@ -88,7 +92,7 @@ const menna = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mna80455-debug&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true&area_color=A855F7" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mna80455-debug&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true&area_color=A855F722" width="100%"/>
 </div>
 
 ---
