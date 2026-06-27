@@ -1,149 +1,194 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="#1a1a2e">
-    <source media="(prefers-color-scheme: light)" srcset="#ffffff">
-    <img align="center" style="display: none;">
-  </picture>
-
-  <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&text=Menna%20Aliwa&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Information%20Technology%20Student%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=55&descSize=16" width="100%" />
-
-  <br>
-
-  <!-- Social Badges -->
-  <a href="mailto:mna80455@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/menna-aliwa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/mna80455-debug"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Menna%20Aliwa&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
-
----
-
-## 👩‍💻 About Me
-
-```yaml
-name: Menna Aliwa
-role: Information Technology Student
-location: Egypt
-focus:
-  - Software Development
-  - Internet of Things (IoT)
-  - AI & Machine Learning Applications
-  - Problem Solving & Strategic Thinking
-philosophy: "Growth doesn't happen overnight; it happens every day."
-```
-
-I am an **Information Technology student** with a deep passion for technology and a relentless drive for growth. I believe in building solutions that matter — whether through clean code, smart systems, or creative problem-solving. My approach combines **analytical thinking** with **curiosity**, allowing me to explore new domains while staying grounded in the fundamentals.
-
----
-
-## 🧭 Current Focus
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Exploring+Software+Development;Diving+into+IoT+%26+Embedded+Systems;Building+AI-powered+Applications;Growing+one+commit+at+a+time" alt="Typing SVG" />
+  <a href="https://github.com/mna80455-debug">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=Network+Engineer+%F0%9F%94%8C;Creative+Inventor+%F0%9F%92%A1;Tech+Artist+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+  </a>
 </p>
 
-- 🌱 **Learning:** Advanced programming concepts, data structures & algorithms, and system design
-- 🔭 **Exploring:** IoT architectures, sensor integration, and embedded systems
-- 🤖 **Interested in:** AI applications that solve real-world problems
-- 📚 **Reading:** Technical documentation, research papers, and growth-oriented books
-- 🎯 **Goal:** Become a well-rounded technologist who builds meaningful impact
+<div align="center">
+  <img src="https://img.shields.io/badge/Menna%20Aliwa-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Creative%20Mind-4ECDC4?style=for-the-badge&logo=lightbulb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Future%20Engineer-FFD93D?style=for-the-badge&logo=cisco&logoColor=black"/>
+</div>
 
----
+<br/>
 
-## 🛠️ Technical Skills
+<!-- ===== ABOUT ME ===== -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
+  ✦ About Me ✦
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
+</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>Network Engineering Student</b> — deep-diving into CCNA & beyond</li>
+        <li>💡 <b>Inventor at heart</b> — I love designing creative solutions</li>
+        <li>🎨 <b>Tech Artist</b> — blending logic with aesthetics</li>
+        <li>🌱 Currently exploring: <b>Network Automation & Python</b></li>
+        <li>🎯 Goal: Build the future of <b>connected intelligence</b></li>
+        <li>⚡ Fun fact: I see <b>art</b> in every packet, <b>design</b> in every topology</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e47zicx4zd4rdux3i3ps7u7vgl9vld2v0x3703t2q75&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" alt="coding animation"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===== SKILLS ===== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+  ✦ My Creative Toolkit ✦
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+</h2>
+
+<br/>
 
 <div align="center">
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌐 Networking & Protocols
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Packet_Tracer-00916E?style=for-the-badge&logo=packer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCP/IP-FF6F00?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Subnetting-7B2FF7?style=for-the-badge&logo=matrix&logoColor=white"/>
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 💻 Languages & Tools
 
-### 📚 Currently Exploring
-![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white)
-![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Data Structures](https://img.shields.io/badge/DSA-02569B?style=for-the-badge&logo=thealgorithms&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### 🎨 Creative Tools
+
+<img src="https://img.shields.io/badge/Design-FF2D55?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Innovation-FF6B35?style=for-the-badge&logo=smart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem_Solving-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 </div>
 
----
+<br/>
 
-## 📌 Featured Projects
+<!-- ===== PROJECTS ===== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+  ✦ What I'm Building ✦
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+</h2>
 
-<div align="center">
-  <a href="https://github.com/mna80455-debug">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mna80455-debug&repo=your-repo&theme=react&border_radius=12&bg_color=0d1117&border_color=667eea&icon_color=667eea" />
-  </a>
-  <a href="https://github.com/mna80455-debug">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mna80455-debug&repo=your-repo&theme=react&border_radius=12&bg_color=0d1117&border_color=764ba2&icon_color=764ba2" />
-  </a>
-</div>
-
-> 🚧 *More projects are being built and will be showcased here soon. Stay tuned!*
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mna80455-debug&show_icons=true&theme=react&hide_border=true&border_radius=12&bg_color=0d1117&icon_color=667eea&title_color=667eea&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mna80455-debug&layout=compact&theme=react&hide_border=true&border_radius=12&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mna80455-debug&theme=react&hide_border=true&border_radius=12&background=0d1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=667eea&dates=8b949e" alt="GitHub Streak" />
-</div>
-
----
-
-## 💭 Philosophy
-
-> *"The expert in anything was once a beginner."* — Helen Hayes
-
-<div align="center">
-  <br>
-  
-  ![Menna's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mna80455-debug&theme=react-dark&hide_border=true&radius=12&area=true&point=764ba2&line=667eea&color=667eea&area_color=667eea20)
-  
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=mna80455-debug&style=for-the-badge&color=667eea" alt="Profile Views" />
-</div>
-
----
+<br/>
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <h3>🌱 Always learning</h3>
-        <h3>🤝 Open to collaboration</h3>
-        <h3>✨ Building the future</h3>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47rhzmy41efsnh1rgy6i513p2ehmh51mc3j6w44z6k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" alt="network"/>
+        <br/>
+        <b>🔌 CCNA Hands-On Labs</b>
+        <br/>
+        <sub>Packet Tracer topologies • Routing • Switching • Security</sub>
       </td>
-      <td>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="380" />
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/LMcB8jXJwXN6mJ37Bu/giphy.gif?cid=ecf05e4730dsif0t76zdw0s4o5s3dr52p43q3r0p7k372rds&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" alt="automation"/>
+        <br/>
+        <b>🤖 Network Automation</b>
+        <br/>
+        <sub>Python scripts • Config management • Monitoring tools</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47l7o8sz7bjow70ibj0h88n9433juylsplzln0m2m1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" alt="creative"/>
+        <br/>
+        <b>🎨 Creative Tech Projects</b>
+        <br/>
+        <sub>Innovation • Design thinking • Prototyping</sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e473n33qzlfojrq3tlggnbvomjsdoqi0r3kshht9gaf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" alt="study"/>
+        <br/>
+        <b>📖 Study Resources</b>
+        <br/>
+        <sub>Revision sheets • Network notes • Cheat sheets</sub>
       </td>
     </tr>
   </table>
-  
-  <br>
-  
-  <i>Let's connect and build something meaningful together.</i>
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:764ba2,100:667eea&section=footer" width="100%" />
 </div>
 
+<br/>
+
+<!-- ===== GITHUB STATS ===== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+  ✦ GitHub Canvas ✦
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+</h2>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mna80455-debug&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=FFFFFF" width="48%" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mna80455-debug&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF" width="48%" alt="languages"/>
+</div>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mna80455-debug&theme=radical&hide_border=true&background=0D1117&ring=FFD93D&fire=FF6B6B&currStreakLabel=4ECDC4" width="100%" alt="streak"/>
+
+<br/>
+<br/>
+
+<!-- ===== CONNECT ===== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+  ✦ Connect with Me ✦
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+</h2>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/menna-aliwa-a6943625a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mna80455@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://menna-portfolio-ruddy.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mna80455-debug">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mna80455-debug&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS"/>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&text=Where%20Networks%20Meet%20Creativity&fontSize=20&fontColor=fff&fontAlignY=60" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  
+  <sup>✨ *Every network tells a story — I'm here to write beautiful ones* ✨</sup>
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=mna80455-debug&color=FF6B6B&style=flat-square&label=Profile+Views"/>
+  
+</div>
